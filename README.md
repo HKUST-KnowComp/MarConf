@@ -1,4 +1,4 @@
-# MarCon
+# MarConf
 Official repository for our ACL2025 (Main Conference) paper [Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?](https://arxiv.org/abs/2505.24778).
 
 ## Updates
